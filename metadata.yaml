@@ -3,4 +3,4 @@ display_name: 原神牛逼 # 用于展示的名字，可以是方便人类阅读
 desc: 载入插件自动打开原神官网，也可以自动下载原神 # 插件简短描述
 version: v1.0.0 # 插件版本号。格式：v1.1.1 或者 v1.1
 author: 浅月tniay # 作者
-repo: # 插件的仓库地址
+repo: https://github.com/tniany/plugin_upload_yuanshennb # 插件的仓库地址
